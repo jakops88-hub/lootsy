@@ -76,6 +76,8 @@ Re-deploy. Done.
 - Better trend ranking (CTR, velocity).
 - Multimarket expansion (SE → EU).
 
+- 
+
 ---
 
 MIT © Lootsy
