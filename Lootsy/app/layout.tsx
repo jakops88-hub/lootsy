@@ -28,5 +28,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </footer>
       </body>
     </html>
+    <img src="/logo.png" className="h-8 w-8" alt="Lootsy" />
   );
 }
