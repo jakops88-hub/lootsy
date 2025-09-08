@@ -29,5 +29,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </body>
     </html>
     <img src="/logo.png" className="h-8 w-8" alt="Lootsy" />
+    openGraph: { images: [{ url: '/og-lootsy.png' }] }
   );
 }
